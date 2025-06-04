@@ -1,0 +1,53 @@
+Análise e Desenvolvimento de Sistemas  
+Disciplina: Algoritmos e Programação  
+Lista de Exercícios – Programação em C  
+
+Descrição:
+Esta lista contém 20 exercícios de programação na linguagem C.  
+Os exercícios abordam algoritmos simples, entrada e saída de dados, estruturas condicionais e laços de repetição.  
+Resolva cada item utilizando os conceitos estudados em sala.  
+
+──────────────────────────────────────────────
+► PARTE 1 – Introdução e Entrada/Saída de Dados
+──────────────────────────────────────────────
+1. Escreva um programa que exiba na tela a frase: "Bem-vindo à programação em C!"  
+2. Crie um programa que leia um número inteiro digitado pelo usuário e o exiba na tela.  
+3. Elabore um programa que leia dois números inteiros e exiba a soma entre eles.  
+4. Faça um programa que leia o nome de uma pessoa e exiba uma mensagem de saudação personalizada.  
+
+──────────────────────────────────────────────
+► PARTE 2 – Condicionais Simples e Compostas
+──────────────────────────────────────────────
+5. Desenvolva um programa que leia a idade de uma pessoa e exiba se ela é maior de idade (18 anos ou mais).  
+6. Escreva um programa que leia um número e informe se ele é positivo.  
+7. Crie um programa que leia dois números e exiba o maior deles.  
+8. Faça um programa que leia um número e informe se ele é par ou ímpar.  
+9. Desenvolva um programa que leia a nota de um aluno e informe se ele está aprovado (nota maior ou igual a 6) ou reprovado.  
+10. Crie um programa que leia três números e exiba o maior deles.  
+11. Escreva um programa que leia a idade de uma pessoa e classifique-a como:
+    - Criança (até 12 anos)
+    - Adolescente (13 a 17 anos)
+    - Adulto (18 a 59 anos)
+    - Idoso (60 anos ou mais)  
+
+──────────────────────────────────────────────
+► PARTE 3 – Cálculos e Operações Matemáticas
+──────────────────────────────────────────────
+12. Elabore um programa que calcule o quadrado de um número inteiro digitado pelo usuário.  
+13. Desenvolva um programa que calcule e exiba a média aritmética de três notas.  
+
+──────────────────────────────────────────────
+► PARTE 4 – Laços de Repetição (while / for)
+──────────────────────────────────────────────
+14. Faça um programa que leia um número e exiba todos os números de 1 até ele usando `while`.  
+15. Crie um programa que leia um número e exiba todos os números de 1 até ele usando `for`.  
+16. Elabore um programa que leia 10 números e conte quantos deles são positivos.  
+17. Desenvolva um programa que leia números até que o usuário digite o número 0.
+    Ao final, exiba a soma de todos os números digitados.  
+18. Faça um programa que exiba a tabuada de um número digitado pelo usuário, de 1 a 10.  
+19. Crie um programa que leia 5 idades e calcule a média delas, usando um laço de repetição.  
+20. Escreva um programa que leia um número inteiro positivo e calcule o fatorial desse número.  
+
+──────────────────────────────────────────────
+Fim da Lista
+──────────────────────────────────────────────
